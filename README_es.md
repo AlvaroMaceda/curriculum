@@ -107,9 +107,9 @@
 🏫 *Universitat Politècnica de València (UPV)* – Valencia, España *(1996)*
 
 ### 🎖 **Certificaciones y Cursos**
-- 🏅 **TensorFlow: Data and Deployment specialization** – Coursera *(2021)* [download certificate](./Tensorflow_Data_and_Deployment_Coursera-certificate.pdf)
-- 🏅 **Reinforcement Learning Specialization** – Coursera *(2020)* [download certificate](./Reinforcement_Learnin_Coursera-certificate.pdf)
-
+- 🏅 **TensorFlow: Data and Deployment specialization** – Coursera *(2021)* [download certificate](./files/Tensorflow_Data_and_Deployment_Coursera-certificate.pdf)
+- 🏅 **Reinforcement Learning Specialization** – Coursera *(2020)* [download certificate](./files/Reinforcement_Learnin_Coursera-certificate.pdf)
+- 🏅 **Applied Data Science with Python** – Coursera *(2019)* [download certificate](./files/Applied_Data_Science_with_Python-certificate.pdf)
 <hr style="border: 2px solid #ddd; margin: 20px 0;">
 
 ⏳ *Última actualización: 04/2025*.
