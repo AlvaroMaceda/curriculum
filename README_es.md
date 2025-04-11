@@ -44,7 +44,7 @@
 
 ## 💼 Experiencia Profesional
 
-### 🚀 **Profesor de formación profesional**
+### 🎓 **Profesor de formación profesional**
 📍 *Generalitat Valenciana* – Valencia, España *(09/2016 – Presente)*
 
 ✅ **Responsabilidades y logros:**
@@ -59,6 +59,14 @@
 - 🔹 Desarrollo de una nueva aplicación de seguimiento de llamadas telefónicas con Rails 6 y React.
 - 🔹 Diseño e implementación de un sistema de tracking basado en eventos de Amplitude.
 - 🔹 Mantenimiento y mejora de una aplicación Rails *muy legacy*.
+
+### ❄️ **Full-stack developer**
+📍 *refrigerationacaccessories.com* – Valencia, España (remote) *(06/2016 – 06/2017)*
+
+✅ **Responsabilidades y logros:**
+- 🔹 Migrar una aplicación PHP legacy (probablemente programada por un simio sin cabeza) a una nueva versión
+- 🔹 Mantener la versión del simio sin cabeza mientras se creaba la nueva
+- 🔹 Despliegue y administración de los servidores de la aplicación.
 
 ### 💻 **Técnico de Caja**
 📍 *Bankia* – Valencia, España *(2012 – 2014)*

@@ -48,7 +48,7 @@
 
 ## 💼 Professional Experience
 
-### 🚀 **Vocational education teacher**
+### 🎓 **Vocational education teacher**
 📍 *Generalitat Valenciana* – Valencia, Spain *(09/2016 – Present)*
 
 ✅ **Responsibilities and accomplishments:**
@@ -64,6 +64,16 @@
 - 🔹 Design an implementation of a tracking system using Amplitude events
 - 🔹 Maintaining and improving a *very legacy* Rails application
 
+
+### ❄️ **Full-stack developer**
+📍 *refrigerationacaccessories.com* – Valencia, Spain (remote) *(06/2016 – 06/2017)*
+
+✅ **Responsibilities and accomplishments:**
+- 🔹 Migrate a raw PHP legacy application (probably programmed by a headless ape) to a new version
+- 🔹 Maintaining the headless ape version while creating the new one
+- 🔹 Deployment and administration of application's servers
+
+
 ### 💻 **Cashier Technician**
 📍 *Bankia* – Valencia, Spain *(2012 – 2014)*
 
@@ -75,7 +85,7 @@
 📍 *Bancaja* – Valencia, Spain *(2009 – 2012)*
 
 ✅ **Responsibilities and accomplishments:**
-- 🔹 Design of extraction and manipulation processes from Oracle data warehause
+- 🔹 Design of extraction and manipulation processes from Oracle data warehouse
 - 🔹 Created an automatic scoreboard for credit risk department
 - 🔹 Generation of information required in the Due Diligence for the merger of Bancaja with Caja Madrid
 
